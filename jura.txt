@@ -1,4 +1,4 @@
-ID,x,Xloc,Yloc,Landuse_1,Landuse_2,Landuse_3,Landuse_4,Rock_1,Rock_2,Rock_3,Rock_4,Rock_5,Cr,Ni,Pb,Zn,Cd,Co,Cu
+Xloc,Yloc,Landuse_1,Landuse_2,Landuse_3,Landuse_4,Rock_1,Rock_2,Rock_3,Rock_4,Rock_5,Cr,Ni,Pb,Zn,Cd,Co,Cu
 2.386,3.077,0,0,1,0,0,0,1,0,0,38.32,21.32,77.36,92.56,1.74,9.32,25.72
 2.544,1.972,0,1,0,0,0,1,0,0,0,40.2,29.72,77.88,73.56,1.335,10,24.76
 2.807,3.347,0,1,0,0,0,0,1,0,0,47,21.4,30.8,64.8,1.61,10.6,8.88
